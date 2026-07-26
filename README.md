@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hey 👋, I'm Sachidanand Pandit
+  Hey 👋, I'm Sachidanand
 </h1>
 
 <h3 align="center">
-Android Engineer • Kotlin Enthusiast • Problem Solver 🚀
+Android Engineer • Kotlin Enthusiast • Flutter
 </h3>
 
 <p align="center">
@@ -38,25 +38,16 @@ Android Engineer • Kotlin Enthusiast • Problem Solver 🚀
 - Kotlin
 - Java
 - Jetpack Compose
-- XML
-- MVVM
-- MVI
+- MVVM, MVI
 - Clean Architecture
 - Hilt / Dagger
 - Coroutines
-- Flow
-- LiveData
-- Navigation
+- Flow, LiveData
 - Room
 - WorkManager
-- Paging 3
-- DataStore
 - Retrofit
-- Coil
 - Glide
 - Firebase
-- Google Maps
-- BLE
 - REST APIs
 
 ---
