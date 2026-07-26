@@ -131,6 +131,6 @@ Android Engineer • Kotlin Enthusiast • Flutter
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sachidanandp/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sachidanandp/sachidanandp/output/github-contribution-grid-snake.svg"/>
 
 </p>
