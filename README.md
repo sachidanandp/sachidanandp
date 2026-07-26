@@ -51,18 +51,6 @@ Android Engineer • Kotlin Enthusiast • Flutter
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachidanandp&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachidanandp&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -138,6 +126,8 @@ Android Engineer • Kotlin Enthusiast • Flutter
 <p align="center">
 ⭐️ If you like my work, consider giving a star to my repositories.
 </p>
+
+---
 
 <p align="center">
 
