@@ -28,7 +28,7 @@ Android Engineer • Kotlin Enthusiast • Flutter
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,gradle,sqlite,mysql,postman,figma,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,gradle,sqlite,figma,vscode&perline=6"/>
 
 </p>
 
