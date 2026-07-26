@@ -21,7 +21,6 @@ Android Engineer • Kotlin Enthusiast • Flutter
 - ☁️ Azure Certified with basic cloud backend experience
 - 🤖 Exploring AI integration in Android applications
 - 🎯 Currently preparing for Product Companies & FAANG interviews
-- 🌱 Learning **Android Internals, System Design & DSA**
 
 ---
 
@@ -102,11 +101,11 @@ Android Engineer • Kotlin Enthusiast • Flutter
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sachidanand-pandit-93b938136/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:spandit.sp11@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -122,7 +121,7 @@ Android Engineer • Kotlin Enthusiast • Flutter
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachidanandp&theme=tokyonight"/>
 
 </p>
 
@@ -130,7 +129,7 @@ Android Engineer • Kotlin Enthusiast • Flutter
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sachidanandp&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
@@ -142,6 +141,6 @@ Android Engineer • Kotlin Enthusiast • Flutter
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sachidanandp/sachidanandp/output/github-contribution-grid-snake.svg"/>
 
 </p>
